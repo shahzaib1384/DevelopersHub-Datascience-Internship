@@ -76,8 +76,7 @@ DevelopersHub DataScience Internship Tasks/
 
 ## 👤 Author
 
-**Shahzaib**  
-Data Science Enthusiast | ML & AI Learner  
+**Shahzaib**    
 
 ---
 
